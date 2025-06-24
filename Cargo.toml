@@ -5,3 +5,4 @@ edition = "2021"
 description = "Isolated Linux desktop workspaces for AI agents — a hidden, agent-owned desktop and browser over MCP, so an agent can do GUI and web work without touching your real desktop."
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
